@@ -21,6 +21,7 @@ static void file_infos(char* dir, char* name);
 static void strdecode(char* to, char* from);
 static char* get_mime_type(char* name);
 static int hexit(char c);
+static void mylog(const char* errorinfo, const char* filename, int linenum);
 
 int main(int argc, char** argv)
 {
@@ -33,15 +34,17 @@ int main(int argc, char** argv)
     struct dirent** dl;
 
     FILE* fp_tmp = fopen("/home/xiao/myhttpd/log.txt", "a");
-    fprintf(fp_tmp, "%d\n", argc);
-    for (i = 0; i < argc; ++i) {
-        fprintf(fp_tmp, "%s\n", argv[i]);
+    time_t now;
+    char timebuf[100];
+
+    // xinetd启动该进程时会传入三个命令行参数，可通过日志查询
+    mylog(argv[0], __FILE__, __LINE__);
+    mylog(argv[1], __FILE__, __LINE__);
+    mylog(argv[2], __FILE__, __LINE__);
+        
+    if (argc != 3) {
+        send_error(500, "Internal Error", NULL, "Config error - no dir specified.");
     }
-    fflush(fp_tmp);
-    fclose(fp_tmp);
- //   if (argc != 2) {
-   //     send_error(500, "Internal Error", NULL, "Config error - no dir specified.");
-   // }
 
     if (chdir(argv[1]) < 0) {
         send_error(500, "Internal Error", NULL, "Config error - couldn't chdir().");
@@ -270,4 +273,23 @@ static void strencode(char* to, size_t tosize, const char* from)
 	}
     }
     *to = '\0';
+}
+
+
+static void mylog(const char* errorinfo, const char* filename, int linenum)
+{
+    FILE* fp_tmp = fopen("/home/xiao/myhttpd/log.txt", "a");
+    time_t now;
+    char timebuf[100];
+
+    now = time((time_t*)0);
+
+    strftime(timebuf, sizeof(timebuf), FORMAT_DATE, gmtime(&now));
+
+    fprintf(fp_tmp, "Date: %s\r\n", timebuf);                    // Date: Fri. 18 Jul 2014 14:34:26 GMT 
+    fprintf(fp_tmp, "Info: %s\r\n", errorinfo);                    
+    fprintf(fp_tmp, "File: %s\r\n", filename);                    
+    fprintf(fp_tmp, "Line: %d\r\n", linenum);                  
+
+    fclose(fp_tmp);
 }

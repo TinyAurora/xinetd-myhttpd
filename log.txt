@@ -1,0 +1,24 @@
+Date: Wed, 10 Oct 2018 03:28:43 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Wed, 10 Oct 2018 03:28:43 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Wed, 10 Oct 2018 03:28:43 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Wed, 10 Oct 2018 03:28:43 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Wed, 10 Oct 2018 03:28:43 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Wed, 10 Oct 2018 03:28:43 GMT
+Info: I
+File: myhttpd.c
+Line: 43
