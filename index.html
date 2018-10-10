@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>ThoughtWorks作业</title>
+        <script type="text/javascript" src="./js/input_exception_function.js"></script>
+    </head>
+    
+    <h1 style="text-align:center">ThoughtWorks训练营作业实现</h1>
+
+    <div class="tab">
+        <button class="tablinks" onclick="select_hw(event, 'hw_1')" id="defaultselected">Javascript简单编程题-1</button>
+        <button class="tablinks" onclick="select_hw(event, 'hw_2')">Javascript简单编程题-2</button>
+        <button class="tablinks" onclick="select_hw(event, 'hw_3')">Javascript中级编程题-1</button>
+        <button class="tablinks" onclick="select_hw(event, 'hw_4')">Javascript中级编程题-2</button>
+        <button class="tablinks" onclick="select_hw(event, 'hw_5')">逻辑题程序</button>
+        <button class="tablinks" onclick="select_hw(event, 'hw_6')">视频演示</button>
+    </div>
+   
+    <div id="hw_1" class="tabcontent">
+        <div class="leftandright">
+            <h2>求两个数的余数</h2>
+            <p>给定两个数字，求第一个数字除以第二个数字后所得的余数。</p>
+            <p>例子:</p>
+            <div class="padding_left_px">
+                <p>1. 给定 9 和 4，返回 1</p>
+                <p>2. 给定 9 和 3，返回 0</p>
+            </div>
+        </div>
+        <div>
+            <h2>实现结果</h2>
+            <p>输入第一个数: <input type="text" id="num1"></p>
+            <p>输入第二个数: <input type="text" id="num2"></p>
+            <button onclick="get_remainder()">求余</button>
+            <p id="result"></p>
+            <p><b>注：实现输入异常类型检测5种</b></p>
+            <p>1. 输入为空，eg：''</p>
+            <p>2. 输入含有非法字符，eg：'十度非ddsdqq.,./;'</p>
+            <p>3. 输入含有空格符，eg：'123 345 5 67'</p>
+            <p>4. 第二个数不能为0，eg：2 % 0，除数不能为0</p>
+            <p>5. 输入为非法数字，eg：'0000001', '03', '0004'</p>
+            <p>（自然数、负数以及部分小数视为正确输入）</p>
+            <script type="text/javascript" src="./js/get_remainder_function.js"></script>
+        </div>
+    </div>
+
+    <div id="hw_2" class="tabcontent">
+        <div class="leftandright">
+            <h2>统计状态</h2>
+            <p>处理一个整数集合，计算下面的状态：</p>
+            <div class="padding_left_px">
+                <p>* 最小值</p>
+                <p>* 最大值</p>
+                <p>* 序列中的元素个数</p>
+                <p>* 平均值</p>
+            </div>
+            <p>比如， [6, 9, 15, -2, 92, 11]，应输出如下：</p>
+            <div class="padding_left_px">
+                <p>o) 最小值 = -2</p>
+                <p>o) 最大值 = 92</p>
+                <p>o) 元素数量 = 6</p>
+                <p>o) 平均值 = 21.83</p>
+            </div>
+            <p>注：保留小数点后两位。</p>
+        </div>
+        <div>
+            <h2>实现结果</h2>
+            <p>输入一组数据，比如，6,9,15,-2,92,11(','为英文输入法模式下)</p>
+            <p><input type="text" id="inputStr"></p>
+            <button onclick="get_result()">输出结果</button>
+            <p id="min"></p>
+            <p id="max"></p>
+            <p id="nums"></p>
+            <p id="average"></p>
+            <p><b>注：实现输入异常类型检测4种</b></p>
+            <p>1. 输入为空，eg：''</p>
+            <p>2. 输入含有非法字符，eg：'十度非ddsdqq.,./;'</p>
+            <p>3. 输入含有空格符，eg：'123 345 5 67'</p>
+            <p>4. 输入为非法数字，eg：'0000001', '03', '0004'</p>
+            <p>（自然数、负数以及部分小数视为正确输入）</p>
+            <script type="text/javascript" src="./js/get_calculate_result_function.js"></script>
+        </div>
+    </div>
+
+    <div id="hw_3" class="tabcontent">
+        <div class="leftandright">
+            <h2>字符串求和</h2>
+            <h3>需求描述</h3>
+            <p>给定一个字符串格式的数字，求和。 例如：给定 123，返回 6。</p>
+            <h3>作业要求</h3>
+            <div class="padding_left_px">
+                <p>1. 根据spec/main-spec.js中的测试用例，在src/main.js文件中编写实现<br>代码并确保测试通过；</p>
+                <p>2. 请在保证代码可读性的前提下，尽可能用最少的代码行数完成作业。</p>
+            </div>
+        </div>
+        <div>
+            <h2>实现结果</h2>
+            <p>输入一串数字，比如，123</p>
+            <p><input type="text" id="inputNumStr"></p>
+            <button onclick="get_sum_of_str()">求和</button>
+            <p id="sum"></p>
+            <p><b>注：实现输入异常类型检测5种</b></p>
+            <p>1. 输入为空，eg：''</p>
+            <p>2. 输入含有非法字符，eg：'十度非ddsdqq.,./;'</p>
+            <p>3. 输入含有空格符，eg：'123 345 5 67'</p>
+            <p>4. 输入不能为负数，eg：'-123454'</p>
+            <p>5. 输入不能为小数，eg：'1.354546'</p>
+            <p>（输入只能为数字）</p>
+            <script type="text/javascript" src="./js/get_sum_of_str_function.js"></script>
+        </div>
+    </div>
+
+    <div id="hw_4" class="tabcontent">
+        <div class="leftandright">
+            <h2>编程小道场</h2>
+            <p>把数字转化为lcd灯的表现形式，打印在控制台上。下面是0~9的样子：</p>
+            <div class="padding_left_px">
+                <div class="line_height_adjust">
+                    <p>._.   .. .   ._.   ._.   .. .   ._.   ._.   ._.   ._.   ._.</p>
+                    <p>|. |   .. |   ._|   ._|   |_|   |_.   |_.   .. |   |_|   |_|</p>
+                    <p>|_|   .. |   |_.   ._|   .. |   ._|   |_|   .. |   |_|   .. |</p>
+                </div>
+            </div>
+            <p><br>例子: 910</p>
+            <div class="padding_left_px">
+                <div class="line_height_adjust">
+                    <p>._.   .. .   ._.</p>
+                    <p>|_|   .. |   |. |</p>
+                    <p>.. |   .. |   |_|</p>
+                </div>
+            </div>
+        </div>
+        <div>
+            <h2>实现结果</h2>
+            <p>输入数字，比如，910</p>
+            <p><input type="text" id="inputNum" maxlength="15"></p>
+            <button onclick="get_lcd_of_num()">转化</button>
+            <div class="line_height_adjust">
+                <p id="line_1"></p>
+                <p id="line_2"></p>
+                <p id="line_3"></p>
+            </div>
+            <p><b>注：实现输入异常类型检测5种</b></p>
+            <p>1. 输入为空，eg：''</p>
+            <p>2. 输入含有非法字符，eg：'十度非ddsdqq.,./;'</p>
+            <p>3. 输入含有空格符，eg：'123 345 5 67'</p>
+            <p>4. 输入不能为负数，eg：'-123454'</p>
+            <p>5. 输入不能为小数，eg：'1.354546'</p>
+            <p>（输入只能为数字）</p>
+            <script type="text/javascript" src="./js/get_lcd_of_num_function.js"></script>
+        </div>
+    </div>
+
+    <div id="hw_5" class="tabcontent">
+        <div class="leftandright_1">
+            <h2>实现结果</h2>
+            <p>请将题目信息输入到下面输入框中，输入格式，eg: '编号-数字-YES-NO-指令'</p>
+            <p>1. <input type="text" id="instruction_1" size="75"></p>
+            <p>2. <input type="text" id="instruction_2" size="75"></p>
+            <p>3. <input type="text" id="instruction_3" size="75"></p>
+            <p>4. <input type="text" id="instruction_4" size="75"></p>
+            <p>5. <input type="text" id="instruction_5" size="75"></p>
+            <p>6. <input type="text" id="instruction_6" size="75"></p>
+            <p>7. <input type="text" id="instruction_7" size="75"></p>
+            <p>8. <input type="text" id="instruction_8" size="75"></p>
+            <p>9. <input type="text" id="instruction_9" size="75"></p>
+            <p>经过以上操作之后，现在<input type="text" id="question_num" size="1" maxlength="1">号盒子中的数字是多少?</p>
+            <button onclick="get_answer()">答案</button>
+            <p id="answer"></p>
+            <script type="text/javascript" src="./js/get_logic_answer_function.js"></script>
+        </div>
+        <div class="leftandright_1">
+            <h2>输入示例</h2>
+            <p>请严格按照示例格式输入，否则，浏览器将会出现崩溃情况！</p>
+            <div class="input_example_color">
+                <p>'1-2-2-0-更改指令8：将该指令中的第2个盒子的编号加1'</p>
+                <p>'2-7-3-0-相乘：5号盒子中的数字*3号盒子中的数字，将结果放在5号盒子中。'</p>
+                <p>'3-2-8-6-判断：指令4中第2个盒子的编号比8号盒子中的数字大吗'</p>
+                <p>'4-1-5-0-将7号盒子中的数字放在4号盒子中'</p>
+                <p>'5-5-3-1-判断：指令4中第1个盒子的编号比2号盒子中的数字大吗'</p>
+                <p>'6-7-7-0-更改指令4：将该指令中的第2个盒子的编号加1'</p>
+                <p>'7-1-4-3-判断：指令8中第2个盒子的编号比7号盒子中的数字大吗'</p>
+                <p>'8-4-9-0-将4号盒子中的数字放在3号盒子中'</p>
+                <p>'9-8-0-0-更改指令8：将该指令中的第1个盒子的编号加2'</p>
+                <p>'5'</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="hw_6" class="tabcontent">
+        <video width="700" height="500" controls>
+        <source src="./video/logic_example.mp4" type="video/mp4">
+        <source src="./video/logic_example.ogg" type="video/ogg">
+        <source src="./video/logic_example.webm" type="video/webm">
+        <object data="./video/logic_example.mp4" width="320" height="240">
+            <embed src="./video/logic_example.swf" width="320" height="240">
+        </object> 
+        </video>
+        <p><b>注意：使用ngrok外网映射后，外网访问可能加载不出该视频！</b></p>
+    </div>
+    
+    <script type="text/javascript" src="./js/index_js.js"></script>
+    <link rel="stylesheet" type="text/css" href="./css/index_css.css">
+</html>
