@@ -22,3 +22,939 @@ Date: Wed, 10 Oct 2018 03:28:43 GMT
 Info: I
 File: myhttpd.c
 Line: 43
+Date: Wed, 10 Oct 2018 03:31:44 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Wed, 10 Oct 2018 03:31:44 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Wed, 10 Oct 2018 03:31:44 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Wed, 10 Oct 2018 03:31:44 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Wed, 10 Oct 2018 03:31:44 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Wed, 10 Oct 2018 03:31:44 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Thu, 11 Oct 2018 02:09:07 GMT
+Info: ./myhttpd
+File: myhttpd.c
+Line: 41
+Date: Thu, 11 Oct 2018 02:09:07 GMT
+Info: ./
+File: myhttpd.c
+Line: 42
+Date: Thu, 11 Oct 2018 02:09:07 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 11:51:16 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 11:51:17 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 11:51:17 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 11:51:17 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 11:51:18 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 11:51:18 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 11:51:18 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 11:56:26 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 11:56:26 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 11:56:26 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 11:56:26 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 11:56:26 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 11:56:26 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:23 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:24 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:24 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:24 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 12:03:24 GMT
+Info: myhttpd1
+File: myhttpd1.c
+Line: 41
+Date: Fri, 12 Oct 2018 12:03:24 GMT
+Info: /home/xiao/myhttpd1/
+File: myhttpd1.c
+Line: 42
+Date: Fri, 12 Oct 2018 12:03:24 GMT
+Info: I
+File: myhttpd1.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:28 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:29 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:29 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:29 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:30 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:30 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:30 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:34 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:35 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:35 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:35 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:35 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:35 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:35 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:40 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:40 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:40 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:48:41 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:42 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:43 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:43 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:43 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 13:53:47 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: I
+File: myhttpd.c
+Line: 43
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 41
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 42
+Date: Fri, 12 Oct 2018 14:10:59 GMT
+Info: I
+File: myhttpd.c
+Line: 43
