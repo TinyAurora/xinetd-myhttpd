@@ -17,9 +17,9 @@
 - 阿里云服务器：ubuntu 16.04   
 
 ### xinetd配置   
-1. cd /etc/xinetd.d/  
-2. sudo vim myhttpd&nbsp;&nbsp;&nbsp;&nbsp;//  注意加上sudo以及保证myhttpd和所生成的可执行程序名字一样  
-3. 添加如下内容：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 注意修改相应的路径参数  
+- cd /etc/xinetd.d/  
+- sudo vim myhttpd&nbsp;&nbsp;&nbsp;&nbsp;//  注意加上sudo以及保证myhttpd和所生成的可执行程序名字一样  
+- 添加如下内容：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 注意修改相应的路径参数  
 ```
 service myhttpd
 {
@@ -34,13 +34,13 @@ service myhttpd
 }
 
 ```
-4. sudo vim /etc/services，添加以下内容：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 端口号和源码一致  
+- sudo vim /etc/services，添加以下内容：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 端口号和源码一致  
 ```
 myhttpd         12345/tcp
 myhttpd         12345/udp
 ```
-5. sudo service xinetd restart   
-6. ./myhttpd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 如果端口号小于1024，则为系统保留端口，改为sudo ./myhttpd  
+- sudo service xinetd restart   
+- ./myhttpd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 如果端口号小于1024，则为系统保留端口，改为sudo ./myhttpd  
 
 ### 主要函数实现功能
 - send_headers：发送http状态码及响应首部等信息
@@ -53,10 +53,10 @@ myhttpd         12345/udp
 - mylog：日志记录函数
 
 ### 代码流程 
-（1）xinetd为守护进程，一直在监听12345端口号；  
-（2）当该端口号被访问时，xinetd启动myhttpd进程，并传入相应的命令参数；    
-（3）myhttpd进程被启动后，则开始对相应的http请求进行处理；   
-（4）myhttpd首先检测日志文件、传入参数等是否正常，如正常，则开始分析http请求头，取出相应的GET方法以及所请求的资源文件路径名字；     
-（5）对所请求的资源进行检测，判断是否存在，若存在，检测其为文件类型还是目录类型，并分别进行处理；     
-（6）如果为文件，则读取相应的文件并发送；      
-（7）如果为目录，首先检测目录中是否含有index.html，若有，则直接跳转到读取index.html文件并发送，若无，则显示目录文件。    
+- xinetd为守护进程，一直在监听12345端口号；  
+- 当该端口号被访问时，xinetd启动myhttpd进程，并传入相应的命令参数以及重定向相关的输入输出描述符；    
+- myhttpd进程被启动后，则开始对相应的http请求进行处理；   
+- myhttpd首先检测日志文件、传入参数等是否正常，如正常，则开始分析http请求头，取出相应的GET方法以及所请求的资源文件路径名字；     
+- 对所请求的资源进行检测，判断是否存在，若存在，检测其为文件类型还是目录类型，并分别进行处理；     
+- 如果为文件，则读取相应的文件并发送；      
+- 如果为目录，首先检测目录中是否含有index.html，若有，则直接跳转到读取index.html文件并发送，若无，则显示目录文件。    
