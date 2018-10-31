@@ -36,8 +36,8 @@ service myhttpd
 ```
 - sudo vim /etc/services，添加以下内容：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 端口号和源码一致  
 ```
-myhttpd         12345/tcp
-myhttpd         12345/udp
+myhttpd         12345/tcp        # tcp service
+myhttpd         12345/udp        # udp service
 ```
 - sudo service xinetd restart   
 - ./myhttpd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 如果端口号小于1024，则为系统保留端口，改为sudo ./myhttpd  
@@ -59,4 +59,9 @@ myhttpd         12345/udp
 - myhttpd首先检测日志文件、传入参数等是否正常，如正常，则开始分析http请求头，取出相应的GET方法以及所请求的资源文件路径名字；     
 - 对所请求的资源进行检测，判断是否存在，若存在，检测其为文件类型还是目录类型，并分别进行处理；     
 - 如果为文件，则读取相应的文件并发送；      
-- 如果为目录，首先检测目录中是否含有index.html，若有，则直接跳转到读取index.html文件并发送，若无，则显示目录文件。    
+- 如果为目录，首先检测目录中是否含有index.html，若有，则直接跳转到读取index.html文件并发送，若无，则显示目录文件。  
+
+### 项目结果
+```
+访问：http://47.106.227.62:12345/ 
+```
