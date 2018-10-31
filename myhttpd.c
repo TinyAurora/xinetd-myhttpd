@@ -38,6 +38,7 @@ int main(int argc, char** argv)
     char timebuf[100];
 
     // xinetd启动该进程时会传入三个命令行参数，可通过日志查询
+    // 注意：ubuntu下则只会传入两个命令参数
     mylog(argv[0], __FILE__, __LINE__);
     mylog(argv[1], __FILE__, __LINE__);
     mylog(argv[2], __FILE__, __LINE__);

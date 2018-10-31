@@ -1018,3 +1018,27 @@ Date: Wed, 31 Oct 2018 06:21:22 GMT
 Info: I
 File: myhttpd.c
 Line: 43
+Date: Wed, 31 Oct 2018 06:29:30 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 42
+Date: Wed, 31 Oct 2018 06:29:30 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 43
+Date: Wed, 31 Oct 2018 06:29:30 GMT
+Info: I
+File: myhttpd.c
+Line: 44
+Date: Wed, 31 Oct 2018 06:29:30 GMT
+Info: myhttpd
+File: myhttpd.c
+Line: 42
+Date: Wed, 31 Oct 2018 06:29:30 GMT
+Info: /home/xiao/myhttpd/
+File: myhttpd.c
+Line: 43
+Date: Wed, 31 Oct 2018 06:29:30 GMT
+Info: I
+File: myhttpd.c
+Line: 44
