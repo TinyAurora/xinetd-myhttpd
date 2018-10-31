@@ -42,6 +42,21 @@ myhttpd         12345/udp
 5. sudo service xinetd restart   
 6. ./myhttpd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 如果端口号小于1024，则为系统保留端口，改为sudo ./myhttpd  
 
+### 主要函数实现功能
+- send_headers：发送http状态码及响应首部等信息
+- send_error：访问出错时，发送错误提示网页
+- strencode：将所要发送资源的名字编码以符合URL的编码规格
+- file_infos：获取文件信息   
+- strdecode：将所接收的URL请求解码为可读的字符串以便于找到相应的请求资源  
+- get_mime_type：获取资源类型
+- hexit：将URL中十六进制的数字转化为十进制数
+- mylog：日志记录函数
 
-
-
+### 代码流程 
+（1）xinetd为守护进程，一直在监听12345端口号；  
+（2）当该端口号被访问时，xinetd启动myhttpd进程，并传入相应的命令参数；    
+（3）myhttpd进程被启动后，则开始对相应的http请求进行处理；   
+（4）myhttpd首先检测日志文件、传入参数等是否正常，如正常，则开始分析http请求头，取出相应的GET方法以及所请求的资源文件路径名字；   
+（5）对所请求的资源进行检测，判断是否存在，若存在，检测其为文件类型还是目录类型，并分别进行处理；
+（6）如果为文件，则读取相应的文件并发送；   
+（7）如果为目录，首先检测目录中是否含有index.html，若有，则直接跳转到读取index.html文件并发送，若无，则显示目录文件。  
