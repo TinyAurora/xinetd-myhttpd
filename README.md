@@ -11,9 +11,37 @@
 └── README.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 说明文档  
 
 ### 项目环境
-操作系统：lubuntu 18.04.1
-编译器：gcc version 7.3.0
-编辑器：vim 8.0.1453
-阿里云服务器：ubuntu 16.04
+- 操作系统：lubuntu 18.04.1  
+- 编译器：gcc version 7.3.0   
+- 编辑器：vim 8.0.1453   
+- 阿里云服务器：ubuntu 16.04   
 
-### xinetd配置
+### xinetd配置   
+1. cd /etc/xinetd.d/  
+2. sudo vim myhttpd&nbsp;&nbsp;&nbsp;&nbsp;//  注意加上sudo以及保证myhttpd和所生成的可执行程序名字一样  
+3. 添加如下内容：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 注意修改相应的路径参数  
+```
+service myhttpd
+{
+        disable         = no
+        server_args     = /home/xiao/myhttpd/ I
+        server          = /home/xiao/myhttpd/myhttpd
+        socket_type     = stream
+        protocol        = tcp
+        user            = xiao
+        wait            = no
+        flags           = IPv4
+}
+
+```
+4. sudo vim /etc/services，添加以下内容：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 端口号和源码一致  
+```
+myhttpd         12345/tcp
+myhttpd         12345/udp
+```
+5. sudo service xinetd restart   
+6. ./myhttpd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// 如果端口号小于1024，则为系统保留端口，改为sudo ./myhttpd  
+
+
+
+
